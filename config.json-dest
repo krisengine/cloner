@@ -1,0 +1,11 @@
+{
+  "gitlab_host": "gitlab.ifrigate.ru",
+  "server_host": "0.0.0.0",
+  "server_port": "8000",
+  "gitlab_user": "<user>",
+  "gitlab_token": "<token>",
+  "repository_dir": "/app/rep",
+  "projects": [
+    "<group>/<project>"
+  ]
+}
